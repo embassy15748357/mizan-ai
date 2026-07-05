@@ -1,3 +1,3 @@
-// Knowledge routes for Mizan AI
+// Knowledge Controller for Mizan AI
 
 module.exports = {};
