@@ -1,5 +1,5 @@
 {
-  "name": "mizan-ai-backend",
+  "name": "@embassy15748357/mizan-ai-backend",
   "version": "1.0.0",
   "description": "Backend for Mizan AI",
   "main": "server.js",
@@ -8,5 +8,13 @@
   },
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/embassy15748357/mizan-ai.git"
+  },
+  "license": "MIT"
 }
